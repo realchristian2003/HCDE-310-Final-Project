@@ -8,11 +8,11 @@ import pycountry #before adding this to our code, we were having trouble getting
 #to using it to guse for Country name
 
 #for recipe key
-EDAMAM_API_KEY = '0cc48e45c5362bfae2c8274d59d899f4'
-EDAMAM_APP_ID = '976dc691'
+EDAMAM_API_KEY = 
+EDAMAM_APP_ID = 
 
 #holidays
-CALENDARIFIC_API_KEY = 'FQ8YjleALRgwLOZoX3S7yJi53cH9cKZV'
+CALENDARIFIC_API_KEY = 
 
 
 def get_recipes(preferences, holiday=None):
